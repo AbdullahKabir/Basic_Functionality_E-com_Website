@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#076b1b</color>
+    <color name="colorPrimaryDark">#187418</color>
+    <color name="white">#ffff</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="colorAccent">#2b121a</color>
+    <color name="charcoal">#303030</color>
+    <!--Resource for intro slide-->
+    <color name="slide_2">#009688</color>
+    <color name="slide_1">#795548</color>
+    <color name="slide_3">#8BC34A</color>
+    <color name="slide_4">#3F51B5</color>
+
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#83878b</color>
+
+
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="orange">#ce4603</color>
+    <color name="textshadow">#7F000000</color>
+</resources>

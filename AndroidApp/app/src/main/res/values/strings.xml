@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">টাটকা সবজী.com</string>
+    <string name="login">Login</string>
+    <string name="visit_store">Visit Store</string>
+
+    <!-- Strings related to login -->
+    <string name="nsuId">NSU ID</string>
+    <string name="password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="events">Events</string>
+    <string name="search">Reminder</string>
+    <string name="settings">Settings</string>
+    <string name="cgpa">CGPA</string>
+    <string name="logout">Logout</string>
+    <string name="others">Others</string>
+    <string name="share">Share</string>
+    <string name="about_us">About Us</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="example">example@northsouth.edu</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign up</string>
+    <!-- String resources for intro slide -->
+    <string name="slide_title_1">Fresh Vegetables</string>
+    <string name="slide_1_desc">Using this you can get fresh vegetables directly from the field</string>
+
+    <string name="slide_title_2">You sell YOUR stuffs</string>
+    <string name="slide_2_desc">The farmers can directly sell their product to the buyers, NO NEED OF THIRD PARTY</string>
+
+    <string name="slide_title_3">Transport</string>
+    <string name="slide_3_desc">Get or provide the facilities of transportation</string>
+
+    <string name="slide_title_4">Thank You For Trying Out Us</string>
+    <string name="slide_4_desc">Here you get to see the latest news given by your university</string>
+    <!-- Resources for shared preferences -->
+    <string name="my_preference">"com.abc.com.MyPref" </string>
+    <string name="my_preference_key">"com.abc.com.MyPrefKey" </string>
+
+    <!--Button Text-->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="show_slides_again">Show Slides Again</string>
+    <string name="sign_up_button">Sign UP</string>
+    <string name="logInButton">Log in</string>
+    <string name="community_desc">Let\'s get to the community</string>
+    <string name="CommunityTitle">CSE Community</string>
+    <string name="title_activity_registration">Registration</string>
+
+</resources>
